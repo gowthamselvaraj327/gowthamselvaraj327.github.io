@@ -7,7 +7,13 @@
 
 - 👨‍💻 I’m currently studying **Artificial Intelligence and Data Science.**
 
+- 🌱 I’m currently learning **ReactJs, Laravel, Data Science.**
+
 - 💪🏼 Future Goals: **Learn more technologies - Never stop creating new ideas.**
+
+- 👨‍💻 All of my projects are available at [gowthamselvaraj.me](gowthamselvaraj.me)
+
+- 📫 How to reach me **gowthamselvaraj327@gmail.com**
 
 - ⚡ Fun fact: **I love to contribute open source project.**
 
